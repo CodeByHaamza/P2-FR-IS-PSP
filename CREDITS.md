@@ -69,8 +69,8 @@ Grâce à un robot (GitHub Action) qui tourne toutes les nuits, ce classement et
 | **[@Overlowd](https://github.com/Overlowd)** | 7 | +7 | -7 |
 | **[@Ethan-LDS](https://github.com/Ethan-LDS)** | 7 | +169 | -169 |
 | **[@All4nRL](https://github.com/All4nRL)** | 6 | +61 | -61 |
+| **[@IovWLordWarth](https://github.com/IovWLordWarth)** | 5 | +334 | -334 |
 | **[@chaytheninja](https://github.com/chaytheninja)** | 5 | +100 | -99 |
-| **[@IovWLordWarth](https://github.com/IovWLordWarth)** | 4 | +206 | -206 |
 | **[@Acanoff](https://github.com/Acanoff)** | 4 | +139 | -139 |
 | **[@Kain-Highwind](https://github.com/Kain-Highwind)** | 4 | +281 | -281 |
 | **[@MBG-May](https://github.com/MBG-May)** | 4 | +185 | -184 |
