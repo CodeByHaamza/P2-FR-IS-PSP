@@ -49,7 +49,7 @@ Grâce à un robot (GitHub Action) qui tourne toutes les nuits, ce classement et
 | Contributeur | 💾 Commits | ➕ Lignes Ajoutées | ➖ Lignes Supprimées |
 |:---|:---:|:---:|:---:|
 | **[@CodeByHaamza](https://github.com/CodeByHaamza)** | 413 | +258448 | -35647 |
-| **[@chenetulipe](https://github.com/chenetulipe)** | 394 | +2437090 | -2371769 |
+| **[@chenetulipe](https://github.com/chenetulipe)** | 398 | +2438083 | -2385001 |
 | **[@claude](https://github.com/claude)** | 196 | +230819 | -8772 |
 | **[@Garloulou](https://github.com/Garloulou)** | 50 | +769 | -517 |
 | **[@github-actions[bot]](https://github.com/github-actions[bot])** | 50 | +652 | -652 |
@@ -63,22 +63,22 @@ Grâce à un robot (GitHub Action) qui tourne toutes les nuits, ce classement et
 | **[@ArsenetheIV](https://github.com/ArsenetheIV)** | 14 | +10059 | -11358 |
 | **[@Tausc0](https://github.com/Tausc0)** | 12 | +62 | -62 |
 | **[@Seb180212](https://github.com/Seb180212)** | 10 | +206 | -203 |
+| **[@vkt2rii](https://github.com/vkt2rii)** | 9 | +308 | -309 |
 | **[@IssaPagi](https://github.com/IssaPagi)** | 9 | +85 | -85 |
 | **[@FrankoPaulo](https://github.com/FrankoPaulo)** | 9 | +117 | -117 |
-| **[@vkt2rii](https://github.com/vkt2rii)** | 9 | +308 | -309 |
 | **[@Overlowd](https://github.com/Overlowd)** | 7 | +7 | -7 |
 | **[@Ethan-LDS](https://github.com/Ethan-LDS)** | 7 | +169 | -169 |
 | **[@All4nRL](https://github.com/All4nRL)** | 6 | +61 | -61 |
 | **[@IovWLordWarth](https://github.com/IovWLordWarth)** | 5 | +334 | -334 |
 | **[@chaytheninja](https://github.com/chaytheninja)** | 5 | +100 | -99 |
-| **[@Acanoff](https://github.com/Acanoff)** | 4 | +139 | -139 |
 | **[@Kain-Highwind](https://github.com/Kain-Highwind)** | 4 | +281 | -281 |
+| **[@Acanoff](https://github.com/Acanoff)** | 4 | +139 | -139 |
 | **[@MBG-May](https://github.com/MBG-May)** | 4 | +185 | -184 |
 | **[@aurelien30](https://github.com/aurelien30)** | 4 | +132 | -132 |
-| **[@driftbyte4767](https://github.com/driftbyte4767)** | 3 | +284 | -284 |
-| **[@ZeldarioGitHub](https://github.com/ZeldarioGitHub)** | 3 | +53 | -53 |
-| **[@Shrenpai](https://github.com/Shrenpai)** | 3 | +123 | -123 |
 | **[@Astakoune](https://github.com/Astakoune)** | 3 | +78 | -78 |
+| **[@Shrenpai](https://github.com/Shrenpai)** | 3 | +123 | -123 |
+| **[@ZeldarioGitHub](https://github.com/ZeldarioGitHub)** | 3 | +53 | -53 |
+| **[@driftbyte4767](https://github.com/driftbyte4767)** | 3 | +284 | -284 |
 | **[@Neth6767](https://github.com/Neth6767)** | 2 | +85 | -85 |
 | **[@Aniy22](https://github.com/Aniy22)** | 2 | +25 | -25 |
 | **[@LykeSama](https://github.com/LykeSama)** | 2 | +33 | -33 |
@@ -105,7 +105,7 @@ Grâce à un robot (GitHub Action) qui tourne toutes les nuits, ce classement et
 ```mermaid
 pie title Top 10 - Commits
     "CodeByHaamza" : 413
-    "chenetulipe" : 394
+    "chenetulipe" : 398
     "claude" : 196
     "Garloulou" : 50
     "github-actions[bot]" : 50
@@ -119,7 +119,7 @@ pie title Top 10 - Commits
 #### Lignes Ajoutées
 ```mermaid
 pie title Top 10 - Lignes Ajoutées
-    "chenetulipe" : 2437090
+    "chenetulipe" : 2438083
     "CodeByHaamza" : 258448
     "claude" : 230819
     "ArsenetheIV" : 10059
@@ -134,7 +134,7 @@ pie title Top 10 - Lignes Ajoutées
 #### Lignes Supprimées
 ```mermaid
 pie title Top 10 - Lignes Supprimées
-    "chenetulipe" : 2371769
+    "chenetulipe" : 2385001
     "CodeByHaamza" : 35647
     "ArsenetheIV" : 11358
     "claude" : 8772
