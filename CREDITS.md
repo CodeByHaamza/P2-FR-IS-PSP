@@ -96,7 +96,7 @@ Grâce à un robot (GitHub Action) qui tourne toutes les nuits, ce classement et
 | **[@Desseday](https://github.com/Desseday)** | 1 | +123 | -123 |
 | **[@k6suha](https://github.com/k6suha)** | 1 | +1 | -1 |
 | **[@Goulyz](https://github.com/Goulyz)** | 1 | +27 | -27 |
-| **[@Aurinox6](https://github.com/Aurinox6)** | 1 | +59 | -59 |
+| **[@aud6](https://github.com/aud6)** | 1 | +59 | -59 |
 | **[@Lomac29](https://github.com/Lomac29)** | 1 | +20 | -20 |
 
 ### Répartition des Contributions (Top 10)
