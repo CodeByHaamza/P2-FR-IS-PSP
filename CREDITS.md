@@ -48,7 +48,7 @@ Grâce à un robot (GitHub Action) qui tourne toutes les nuits, ce classement et
 
 | Contributeur | 💾 Commits | ➕ Lignes Ajoutées | ➖ Lignes Supprimées |
 |:---|:---:|:---:|:---:|
-| **[@CodeByHaamza](https://github.com/CodeByHaamza)** | 417 | +272430 | -49353 |
+| **[@CodeByHaamza](https://github.com/CodeByHaamza)** | 423 | +284517 | -63351 |
 | **[@chenetulipe](https://github.com/chenetulipe)** | 406 | +2445019 | -2392304 |
 | **[@claude](https://github.com/claude)** | 196 | +230819 | -8772 |
 | **[@Garloulou](https://github.com/Garloulou)** | 50 | +769 | -517 |
@@ -89,8 +89,8 @@ Grâce à un robot (GitHub Action) qui tourne toutes les nuits, ce classement et
 | **[@chenetulipe2](https://github.com/chenetulipe2)** | 2 | +6 | -6 |
 | **[@nekorighthere](https://github.com/nekorighthere)** | 2 | +86 | -86 |
 | **[@Door-dono](https://github.com/Door-dono)** | 2 | +39 | -39 |
-| **[@MaelMinhAnh](https://github.com/MaelMinhAnh)** | 1 | +77 | -77 |
 | **[@Lomac29](https://github.com/Lomac29)** | 1 | +20 | -20 |
+| **[@MaelMinhAnh](https://github.com/MaelMinhAnh)** | 1 | +77 | -77 |
 | **[@aud6](https://github.com/aud6)** | 1 | +59 | -59 |
 | **[@Desseday](https://github.com/Desseday)** | 1 | +123 | -123 |
 | **[@Muse-haut](https://github.com/Muse-haut)** | 1 | +666 | -666 |
@@ -105,7 +105,7 @@ Grâce à un robot (GitHub Action) qui tourne toutes les nuits, ce classement et
 #### Volume de Commits
 ```mermaid
 pie title Top 10 - Commits
-    "CodeByHaamza" : 417
+    "CodeByHaamza" : 423
     "chenetulipe" : 406
     "claude" : 196
     "Garloulou" : 50
@@ -121,7 +121,7 @@ pie title Top 10 - Commits
 ```mermaid
 pie title Top 10 - Lignes Ajoutées
     "chenetulipe" : 2445019
-    "CodeByHaamza" : 272430
+    "CodeByHaamza" : 284517
     "claude" : 230819
     "ArsenetheIV" : 10059
     "Bicyclarv" : 3311
@@ -136,7 +136,7 @@ pie title Top 10 - Lignes Ajoutées
 ```mermaid
 pie title Top 10 - Lignes Supprimées
     "chenetulipe" : 2392304
-    "CodeByHaamza" : 49353
+    "CodeByHaamza" : 63351
     "ArsenetheIV" : 11358
     "claude" : 8772
     "Bicyclarv" : 3311
